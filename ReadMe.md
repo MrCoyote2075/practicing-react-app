@@ -1,1 +1,1 @@
-practicing react project hosting 
+practicing react project - website hosting in GitHub
